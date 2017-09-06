@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-sessions": "^1.0.6",
+    "fs": "0.0.1-security",
+    "mustache-express": "^1.2.5",
+    "sessions": "0.0.2-7"
+  },
+  "version": ""
+}

@@ -1,0 +1,55 @@
+body {
+    display: block;
+    align-content: space-around;
+    background-image: url("http://www.freakingnews.com/pictures/59000/Statue-of-Liberty-Holding-a-Goose--59016.jpg");
+    width: 100%;
+}
+
+h1 {
+   display: flex;
+   justify-content: space-around;
+   font-family: 'Gloria Hallelujah', cursive;
+   font-size: 70px;
+   color: rgb(248, 177, 39);
+}
+
+h2 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+    color: white;
+}
+
+h3 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+    color: rgb(228, 61, 236);
+}
+
+p {
+    text-align: center;
+}
+
+input {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7%;
+    width: 350px;
+    height: 100px;
+    font-size: 35px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #A9EDED;
+    background-color: silver;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+/* #answerArray {
+    color: rgb(228, 61, 236);
+} */
